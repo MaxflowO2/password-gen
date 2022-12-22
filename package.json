@@ -1,0 +1,25 @@
+{
+  "name": "password-gen",
+  "version": "0.1.0",
+  "description": "24 character password generator",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node src/index.js"
+  },
+  "author": "Max Flow O2",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxflowO2/Password-Generator.git"
+  },
+  "keywords": [
+    "24",
+    "character",
+    "password",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/MaxflowO2/Password-Generator/issues"
+  },
+  "homepage": "https://github.com/MaxflowO2/Password-Generator#readme"
+}
