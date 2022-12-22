@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaxflowO2/Password-Generator.git"
+    "url": "git+https://github.com/MaxflowO2/password-gen.git"
   },
   "keywords": [
     "24",
@@ -19,9 +19,9 @@
     "generator"
   ],
   "bugs": {
-    "url": "https://github.com/MaxflowO2/Password-Generator/issues"
+    "url": "https://github.com/MaxflowO2/password-gen/issues"
   },
-  "homepage": "https://github.com/MaxflowO2/Password-Generator#readme",
+  "homepage": "https://github.com/MaxflowO2/password-gen#readme",
   "dependencies": {
     "dotenv": "^16.0.3"
   }
